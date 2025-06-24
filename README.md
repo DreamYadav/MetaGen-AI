@@ -15,14 +15,14 @@
 
 ###  Key Features
 
-- **🔍 Multi-Format Support**: PDF, DOCX, TXT, and image files
-- **🧠 Advanced AI Analysis**: Semantic content identification and topic classification
-- **📊 Comprehensive Metrics**: Readability scores, sentiment analysis, and document structure
-- **🌐 Multi-Language Support**: English, Spanish, and French detection
-- **📈 Real-time Processing**: Live progress tracking with visual feedback
-- **💾 Multiple Export Formats**: JSON, XML, and CSV export options
-- **🎨 Modern UI/UX**: Beautiful, responsive interface with smooth animations
-- **⚡ High Performance**: Optimized processing with efficient algorithms
+- ** Multi-Format Support**: PDF, DOCX, TXT, and image files
+- ** Advanced AI Analysis**: Semantic content identification and topic classification
+- ** Comprehensive Metrics**: Readability scores, sentiment analysis, and document structure
+- ** Multi-Language Support**: English, Spanish, and French detection
+- ** Real-time Processing**: Live progress tracking with visual feedback
+- ** Multiple Export Formats**: JSON, XML, and CSV export options
+- ** Modern UI/UX**: Beautiful, responsive interface with smooth animations
+- ** High Performance**: Optimized processing with efficient algorithms
 
 ##  Use Cases
 
@@ -33,7 +33,7 @@
 - **Business Intelligence**: Content analysis for strategic insights
 - **Academic Research**: Large-scale document analysis and categorization
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **React 18.3.1** - Modern UI library with hooks
@@ -327,25 +327,25 @@ We welcome contributions! Please follow these steps:
 - Add JSDoc comments for functions
 - Keep components focused and reusable
 
-## 📝 Changelog
+##  Changelog
 
 ### Version 1.0.0 (Current)
-- ✨ Initial release
-- 🔍 Multi-format document processing
-- 🧠 Advanced semantic analysis
-- 📊 Comprehensive analytics dashboard
-- 💾 Multiple export formats
-- 🎨 Modern, responsive UI
+-  Initial release
+-  Multi-format document processing
+-  Advanced semantic analysis
+-  Comprehensive analytics dashboard
+-  Multiple export formats
+-  Modern, responsive UI
 
 ### Planned Features
-- 🌐 Multi-language UI support
-- 🔌 API integration capabilities
-- 📱 Mobile app version
-- 🤖 Enhanced AI analysis
-- 📊 Advanced analytics dashboard
-- 🔄 Batch processing improvements
+-  Multi-language UI support
+-  API integration capabilities
+-  Mobile app version
+-  Enhanced AI analysis
+-  Advanced analytics dashboard
+-  Batch processing improvements
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -357,7 +357,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vite Team** - For the fast build tool
 - **Open Source Community** - For inspiration and resources
 
-## 📞 Support
+##  Support
 
 - **Email**: dreampyadav@gmail.com
 
