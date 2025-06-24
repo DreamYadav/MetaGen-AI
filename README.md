@@ -9,11 +9,11 @@
   [![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 </div>
 
-## 🚀 Overview
+##  Overview
 
 **MetaGen Pro** is a sophisticated, production-ready automated metadata generation system designed to extract, analyze, and structure metadata from various document formats. Built with modern web technologies, it provides comprehensive document analysis including content extraction, semantic analysis, entity recognition, and intelligent summarization.
 
-### ✨ Key Features
+###  Key Features
 
 - **🔍 Multi-Format Support**: PDF, DOCX, TXT, and image files
 - **🧠 Advanced AI Analysis**: Semantic content identification and topic classification
@@ -24,7 +24,7 @@
 - **🎨 Modern UI/UX**: Beautiful, responsive interface with smooth animations
 - **⚡ High Performance**: Optimized processing with efficient algorithms
 
-## 🎯 Use Cases
+##  Use Cases
 
 - **Document Management Systems**: Automated cataloging and classification
 - **Content Analysis**: Research and academic document processing
@@ -52,7 +52,7 @@
 - **PostCSS** - CSS processing and optimization
 - **Autoprefixer** - CSS vendor prefixing
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before running MetaGen Pro, ensure you have the following installed:
 
@@ -60,7 +60,7 @@ Before running MetaGen Pro, ensure you have the following installed:
 - **npm** (version 8.0 or higher) or **yarn**
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone the Repository
 ```bash
@@ -85,7 +85,7 @@ yarn dev
 ### 4. Open in Browser
 Navigate to `http://localhost:5173` to access the application.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 metagen-pro/
@@ -144,21 +144,21 @@ module.exports = {
 }
 ```
 
-## 📊 Features Deep Dive
+##  Features Deep Dive
 
-### 🔍 Content Extraction
+###  Content Extraction
 - **PDF Processing**: Advanced text extraction with layout preservation
 - **DOCX Analysis**: Complete document structure parsing
 - **Image OCR**: Text recognition from images (simulated)
 - **Plain Text**: Direct content analysis
 
-### 🧠 Semantic Analysis
+###  Semantic Analysis
 - **Topic Classification**: 9 predefined categories with confidence scoring
 - **Entity Recognition**: Email, phone, URL, date, and person extraction
 - **Keyword Extraction**: Frequency-based with stop-word filtering
 - **Language Detection**: Multi-language support with confidence metrics
 
-### 📈 Analytics & Metrics
+###  Analytics & Metrics
 - **Readability Score**: Flesch Reading Ease calculation
 - **Sentiment Analysis**: Positive, negative, neutral classification
 - **Document Structure**: Headers, paragraphs, lists, tables analysis
@@ -169,7 +169,7 @@ module.exports = {
 - **XML**: Hierarchical format for enterprise systems
 - **CSV**: Spreadsheet-compatible for analysis
 
-## 🎨 Design System
+##  Design System
 
 ### Color Palette
 - **Primary**: Violet/Purple gradients (`#7c3aed` to `#6d28d9`)
@@ -215,7 +215,7 @@ Exports metadata as XML file.
 #### `exportAsCSV(metadata: DocumentMetadata[]): void`
 Exports metadata as CSV file.
 
-## 🧪 Testing
+##  Testing
 
 ### Running Tests
 ```bash
@@ -239,7 +239,7 @@ yarn test:coverage
 - [ ] Error handling for unsupported files
 - [ ] Processing status updates
 
-## 🚀 Deployment
+##  Deployment
 
 ### Build for Production
 ```bash
@@ -273,7 +273,7 @@ yarn preview
 2. Upload `dist/` folder contents to web server
 3. Configure server for SPA routing
 
-## 🔒 Security Considerations
+##  Security Considerations
 
 - **File Size Limits**: Configurable maximum file size (default: 10MB)
 - **File Type Validation**: Strict MIME type checking
@@ -281,7 +281,7 @@ yarn preview
 - **Data Privacy**: All processing happens in the browser
 - **XSS Protection**: Sanitized output rendering
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -303,7 +303,7 @@ Enable debug logging by adding to localStorage:
 localStorage.setItem('DEBUG', 'true');
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -349,7 +349,7 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **React Team** - For the amazing React framework
 - **Tailwind CSS** - For the utility-first CSS framework
@@ -359,23 +359,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Documentation**: [GitHub Wiki](https://github.com/your-username/metagen-pro/wiki)
-- **Issues**: [GitHub Issues](https://github.com/your-username/metagen-pro/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/metagen-pro/discussions)
-- **Email**: support@metagen-pro.com
+- **Email**: dreampyadav@gmail.com
 
-## 🌟 Show Your Support
-
-If you find MetaGen Pro helpful, please consider:
-- ⭐ Starring the repository
-- 🐛 Reporting bugs
-- 💡 Suggesting new features
-- 🤝 Contributing to the codebase
-- 📢 Sharing with others
 
 ---
 
-<div align="center">
-  <p>Made with ❤️ by the MetaGen Pro Team</p>
-  <p>© 2024 MetaGen Pro. All rights reserved.</p>
-</div>
